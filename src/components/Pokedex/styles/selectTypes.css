@@ -1,0 +1,8 @@
+.select {
+    border-radius: 1.2rem;
+    margin: 2rem;
+    padding: 0.3rem;
+    border-width: 2px;
+    border-color: black;
+    background-color: #FE1936;
+}
